@@ -7,9 +7,9 @@
 
 
 echo "
-            闩工ㄩ ㄩ丂㠪尺乃龱ㄒ
+             ㄩ丂㠪尺乃龱ㄒ
 
-      Visit @AIUSUPPORT for updates!!
+      kontak @hiro_v1 for updates!!
 
 "
 if [ -f .env ] ; then  set -o allexport; source .env; set +o allexport ; fi
