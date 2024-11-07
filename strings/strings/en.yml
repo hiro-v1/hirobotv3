@@ -2,6 +2,7 @@ name: English
 natively: English
 
 authors:
+  - hiro_v1
   - xditya
   - rojserbest
   - sppidy
@@ -142,8 +143,8 @@ inline_1: "** {}.\n\n𝖬𝖮𝖣𝖴𝖫 ~ {}**"
 inline_2: "** {}.\n\nAᴅᴅᴏɴs ~ {}**"
 inline_3: "** {}.\n\nAᴅᴅᴏɴs ~ {}\n\nDᴏ **`.setdb ADDONS True`** ᴀɴᴅ ʀᴇsᴛᴀʀᴛ ᴛᴏ ɢᴇᴛ ᴀᴅᴅᴏɴs.**"
 inline_4: "**📚 Menu Inline : {}\n\n⚙️ Prefix : .\n\n📤 Total Modul : {}\n⁫\n**"
-inline_5: "**ᴀɪᴜ ꭙ ᴜꜱᴇʀʙᴏᴛ**"
-inline_6: "**Voice Chat Help Menu for {}**\n**Available Commands:** `{}`\n\n@AIUSUPPORT"
+inline_5: "**hiro ꭙ ᴜꜱᴇʀʙᴏᴛ**"
+inline_6: "**Voice Chat Help Menu for {}**\n**Available Commands:** `{}`\n\n@hiro_v1"
 inline_7: "Do .help {} to get the list of commands."
 inline_8: "Click the below button to update!"
 inline_9: "You Are Already On Latest Version"
@@ -174,7 +175,7 @@ bot_3: "Repo"
 bot_4: "Support"
 bot_5: "[💠](emoji/5971944878815317190) `Restarting...`"
 alive_1: "**\n\n**{}**\n\n[💠](emoji/5971944878815317190)**ᴏᴡɴᴇʀ** - `{}`\n[💠](emoji/5971944878815317190)**ᴀɪᴜ** - `{}`\n[💠](emoji/5971944878815317190)**ᴘʏ-ᴀɪᴜ** - `{}`\n[💠](emoji/5971944878815317190)**ᴜᴘᴛɪᴍᴇ** - `{}`\n[💠](emoji/5971944878815317190)**ᴘʏᴛʜᴏɴ** - `{}`\n[💠](emoji/5971944878815317190)**ᴛᴇʟᴇᴛʜᴏɴ** - `{}`\n[💠](emoji/5971944878815317190)**ʙʀᴀɴᴄʜ - `{}`"
-log: "**Heroku** ᴀɪᴜ ꭙ ᴜꜱᴇʀʙᴏᴛ Logs.\nPasted [here]({}) too!"
+log: "**Heroku** hiro ꭙ ᴜꜱᴇʀʙᴏᴛ Logs.\nPasted [here]({}) too!"
 lping: "**🏓 ᴘᴏɴɢ**  `{}ms`\n**🕑 ᴜᴘᴛɪᴍᴇ  `{}`\n**👑 ᴏᴡɴᴇʀ  {}"
 ping: "**\n\n[🏓](emoji/5269563867305879894)**ᴘᴏɴɢ • `{}ms`\n[⏰](emoji/5413704112220949842)**ᴜᴘᴛɪᴍᴇ • `{}`\n[👑](emoji/5467406098367521267)**ᴏᴡɴᴇʀ • {}"
 iping: "**Pong !!!\n** {}ms"
@@ -203,7 +204,7 @@ bd_8: "`Removing...`"
 bd_9: "Channel is already removed from database. "
 
 # calculator
-calc_1: "• AIU-USERBOT Inline Calculator •"
+calc_1: "• hirobotv3-USERBOT Inline Calculator •"
 calc_2: "Open Calculator Again"
 
 # channel hacks
