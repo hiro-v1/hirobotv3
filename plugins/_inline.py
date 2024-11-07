@@ -50,8 +50,8 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/JIYOXC/AIU-USERBOT"),
-        Button.url("• Support •", url="t.me/aiu_support"),
+        Button.url("• Repo •", url="https://github.com/hiro-v1/hirobotv3"),
+        Button.url("• Support •", url="t.me/hiro_v1"),
     ],
 ]
 
@@ -61,7 +61,7 @@ SUP_BUTTONS = [
 @in_pattern(owner=True, func=lambda x: not x.text)
 async def inline_alive(o):
     TLINK = inline_pic() or "https://graph.org/file/f1dc435e6692fbe95c7e4.jpg"
-    MSG = "• **Aiu Userbot •**"
+    MSG = "• **hirobotv3 Userbot •**"
     WEB0 = InputWebDocument(
         "https://graph.org/file/f1dc435e6692fbe95c7e4.jpg", 0, "image/jpg", []
     )
@@ -71,7 +71,7 @@ async def inline_alive(o):
             text=MSG,
             include_media=True,
             buttons=SUP_BUTTONS,
-            title="Ultroid Userbot",
+            title="hirobotv3 Userbot",
             description="Userbot | Telethon",
             url=TLINK,
             thumb=WEB0,
