@@ -6,7 +6,7 @@
 # <https://github.com/TeamUltroid/pyUltroid/blob/main/LICENSE>.
 
 """
-Exceptions which can be raised by py-Ultroid Itself.
+Exceptions which can be raised by py-hiro Itself.
 """
 
 
