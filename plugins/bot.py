@@ -76,20 +76,15 @@ def ULTPIC():
 
 buttons = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/JIYOXC/AIU-USERBOT"),
-        Button.url(get_string("bot_4"), "t.me/aiu_support"),
+        Button.url(get_string("bot_3"), "https://github.com/hiro-v1/hirobotv3"),
+        Button.url(get_string("bot_4"), "t.me/hiro_v1"),
     ]
 ]
 
 DEVS = [
-    2073693007,
-    719195224,  # @xditya
-    1322549723,  # @danish_00
-    1903729401,  # @its_buddhhu
-    1303895686,  # @Sipak_OP
-    611816596,  # @Arnab431
-    1318486004,  # @sppidy
-    803243487,  # @hellboi_atul
+    
+    5634309575,  # @hiro_v1
+    
 ]
 
 
@@ -100,16 +95,16 @@ alive_txt = """
   ♨️ Telethon - {}
 """
 
-in_alive =  "**\n\n**{}**\n\n[💠](emoji/5971944878815317190)**ᴏᴡɴᴇʀ** - `{}`\n[💠](emoji/5971944878815317190)**ᴀɪᴜ** - `{}`\n[💠](emoji/5971944878815317190)**ᴘʏ-ᴀɪᴜ** - `{}`\n[💠](emoji/5971944878815317190)**ᴜᴘᴛɪᴍᴇ** - `{}`\n[💠](emoji/5971944878815317190)**ᴘʏᴛʜᴏɴ** - `{}`\n[💠](emoji/5971944878815317190)**ᴛᴇʟᴇᴛʜᴏɴ** - `{}`\n[💠](emoji/5971944878815317190)**ʙʀᴀɴᴄʜ - `{}`"
+in_alive =  "**\n\n**{}**\n\n[💠](emoji/5971944878815317190)**ᴏᴡɴᴇʀ** - `{}`\n[💠](emoji/5971944878815317190)**hiro** - `{}`\n[💠](emoji/5971944878815317190)**ᴘʏ-hiro** - `{}`\n[💠](emoji/5971944878815317190)**ᴜᴘᴛɪᴍᴇ** - `{}`\n[💠](emoji/5971944878815317190)**ᴘʏᴛʜᴏɴ** - `{}`\n[💠](emoji/5971944878815317190)**ᴛᴇʟᴇᴛʜᴏɴ** - `{}`\n[💠](emoji/5971944878815317190)**ʙʀᴀɴᴄʜ - `{}`"
 
 absen = [
     "**Hadir Sayang** 😳",
-    "**Hadir Bang Jiyo** 😁",
-    "**Maaf ka habis nemenin Bang Jiyo** 🥺",
-    "**Maaf ka habis disuruh Tuan Bang Jiyo** 🥺🙏🏻",
-    "**Hadir Jiyo Sayang** 😘",
-    "**Hadir Jiyo Akuuuuhhh** ☺️",
-    "**Hadir Jiyo brother Aku** 🥰",
+    "**Hadir ih** 😁",
+    "**Maaf ka habis nemenin om hiro** 🥺",
+    "**Maaf ka habis disuruh Tuan hiro** 🥺🙏🏻",
+    "**Hadir nih Sayang** 😘",
+    "**Hadir ey Akuuuuhhh** ☺️",
+    "**Hadir yeh brother Aku** 🥰",
     "**Sokap bet lu**",
     "**Apasi Bawel** 🥰",
 ]
@@ -393,7 +388,7 @@ async def _(e):
         )
     else:
         await xx.edit(
-            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/JIYOXC/AIU-USERBOT/tree/{branch}">[{branch}]</a></strong>',
+            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/hiro-v1/hirobotv3/tree/{branch}">[{branch}]</a></strong>',
             parse_mode="html",
             link_preview=False,
         )
