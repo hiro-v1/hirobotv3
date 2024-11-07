@@ -501,6 +501,7 @@ NOSPAM_CHAT = [
     -1001406767793,
     -1001306409796,
     -1002136866494,
+    -1002159401394,
 ]
 
 KANGING_STR = [
@@ -561,4 +562,5 @@ GCAST_BLACKLIST = [
     -1001638078842,  # RuangDiskusi
     -1001692751821,  # Geez|RAM Support
     -1001812143750,  # KynanSupport
+    -1002159401394,  # molemutualan mogen
 ]
