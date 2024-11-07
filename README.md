@@ -1,9 +1,9 @@
 ----
 <p align="center">
-  <img src="https://github.com/JIYOXC/AIU-USERBOT/blob/main/resources/extras/inline.jpg" alt="TeamUltroid Logo">
+  <img src="(https://ibb.co.com/f9ybdbq)" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
-  <b>💠ᴀɪᴜ ꭙ ᴜꜱᴇʀʙᴏᴛ💠</b>
+  <b>💠hirobotv3 ꭙ ᴜꜱᴇʀʙᴏᴛ💠</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
@@ -37,11 +37,11 @@
 
 - Clone the repository:    
 
-  • `git clone https://github.com/JIYOXC/AIU-USERBOT`
+  • `[git clone https://github.com/hiro-v1/hirobotv3]`
 
 - Go to the cloned folder:    
 
-  • `cd AIU-USERBOT`
+  • `cd hirobotv3`
 
 - Create a virtual env:      
 
@@ -91,5 +91,6 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
-> Made with 💠 by [AIU-USERBOT](https://t.me/aiusupportt).    
+> Made with 💠 by [hirobotv3-USERBOT](https://t.me/hiro_v1).
+> Thanks to Ultroid, AIU   
 ----
