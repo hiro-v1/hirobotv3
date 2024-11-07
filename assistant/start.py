@@ -68,7 +68,7 @@ async def own(event):
         mention=event.sender.mention, me=inline_mention(ultroid_bot.me)
     )
     if custom_info:
-        msg += "\n\n• Powered by **@TeamUltroid**"
+        msg += "\n\n• Powered by **@hiro_v1**"
     await event.edit(
         msg,
         buttons=[Button.inline("Close", data="closeit")],
