@@ -4,7 +4,7 @@
 
 """
 Sangmata Beta!
-
+JANGAN KESERINGAN NANTI BINTITAN
 CMD: {i}sgb <reply/user_id>
 """
 
