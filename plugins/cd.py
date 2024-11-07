@@ -66,7 +66,7 @@ async def pastee(path):
 
 @ultroid_cmd(pattern="cd ?(.*)")
 async def semd_plugin(ult):
-    repo = "https://github.com/JIYOXC/AIU-USERBOT"
+    repo = "https://github.com/hiro-v1/hirobotv3"
     args = ult.pattern_match.group(1)
     if not args:
         return await ult.eod("`Give a plugin name too`")
@@ -80,7 +80,7 @@ async def semd_plugin(ult):
 
     paste = await pastee(path)
     caption = f"<b>>> </b><code>{path}</code> \n{paste} \n" \
-        f"© <a href='{repo}'>AIU-USERBOT</a>"
+        f"© <a href='{repo}'>hirobotv3</a>"
     try:
         await ult.client.send_file(
             ult.chat_id, path,
