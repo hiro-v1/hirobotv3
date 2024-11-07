@@ -14,21 +14,21 @@ from telethon.errors import (
 from . import LOG_CHANNEL, LOGS, Button, asst, eor, get_string, ultroid_cmd
 
 REPOMSG = """
-• **AIU-USERBOT USERBOT** •\n
-• Repo - [Click Here](https://github.com/JIYOXC/AIU-USERBOT)
-• Addons - [Click Here](https://github.com/JIYOXC/AIUADDONS)
-• Support - @AIUSUPPORTT
+• **hirobotv3 userbot** •\n
+• Repo - [Click Here](https://github.com/hiro-v1/hirobotv3)
+• Addons - [Click Here](https://github.com/hiro-v1/hirobotv3)
+• Support - @hiro_v1
 """
 
 RP_BUTTONS = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/JIYOXC/AIU-USERBOT"),
-        Button.url("Addons", "https://github.com/JIYOXC/AIUADDONS"),
+        Button.url(get_string("bot_3"), "https://github.com/hiro-v1/hirobotv3"),
+        Button.url("Addons", "https://github.com/hiro-v1/hirobotv3"),
     ],
-    [Button.url("Support Group", "t.me/AIUSUPPORTT")],
+    [Button.url("Support ", "t.me/hiro_v1")],
 ]
 
-ULTSTRING = """🎇 **Thanks for Deploying AIU-USERBOT Userbot!**
+ULTSTRING = """🎇 **Thanks for Deploying hirobotv3 Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage."""
 
